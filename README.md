@@ -19,3 +19,6 @@
 
 ## Conclusion
 <p style="text-align:justify;">Hopefully this helps and serves someone out there, who was/is unable to play this game as I was for some dumb-ass reason, as it did me. The code is also written in a way to only affect the FC4.exe, so no other tasks are affected, and the system returns back to it's original state after the game closes.</p>
+
+## Notes
+<p style="text-align:justify;"> <strong>1.</strong> In the code, there are place-holders such as <em>C:\Path\To</em>, which are meant to be replaced by your actual paths to executable files, so don't forget about that.</p>
