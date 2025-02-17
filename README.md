@@ -22,4 +22,4 @@
 
 ## Notes
 <p style="text-align:justify;"> <strong>1.</strong> In the code, there are place-holders such as <em>C:\Path\To</em>, which are meant to be replaced by your actual paths to executable files, so don't forget about that.</p><br>
-<p style="text-align:justify;"> <strong>2.</strong> Another placeholder is <em>Q:\STEAM\steamapps\common\Far Cry 4\bin\FarCry4.exe</em>. Make sure, to adjust to your path.</p>
+<p style="text-align:justify;"> <strong>2.</strong> Another placeholder is <em>Q:\STEAM\steamapps\common\Far Cry 4\bin\FarCry4.exe</em>. Make sure to adjust to your path.</p>
