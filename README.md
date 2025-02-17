@@ -4,7 +4,7 @@
 ## Detailed Description of the Applet
 <p style="text-align:justify;">This applet was created after a month of looking for solutions on how to get my game woking stutter free again after Ubisoft had implemented Steam achievements retroactively (<em>11 years after launch</em>).</p>
 
-<p style="text-align:justify;">The app runs the <strong>FarCry4.exe</strong> file from the install directory and <strong>locks the number of active cores to 4</strong> and <strong>sets the executables priority to "High"</strong> in Task Manager, so it always takes priority over any other task except system tasks, making it almost impossible to freeze due to being among the most important apps running while the executable is active.</p>
+<p style="text-align:justify;">The app runs the <strong>FarCry4.exe</strong> file from the install directory, <strong>locks the number of active cores to 4</strong>, and <strong>sets the executables priority to "High"</strong> in Task Manager, so it always takes priority over any other task except system tasks, making it almost impossible to freeze due to being among the most important apps running while the executable is active.</p>
 
 ## How to Use This Software
 <p style="text-align:justify;"><strong>Step 1:</strong> Download the file named <em>FC4Launcher_03_high.ps1</em>.</p><br>
