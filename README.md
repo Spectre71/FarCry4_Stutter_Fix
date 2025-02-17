@@ -13,7 +13,7 @@
 <p style="text-align:justify;"><strong>Step 4 (OPTIONAL IF PS2EXE IS NOT INSTALLED):</strong> When asked <em>Do you want PowerShellGet to install and import the NuGet
  provider now?</em> type <strong>Y</strong> and hit the keyboard key <em>Enter</em>.</p><br>
 <p style="text-align:justify;"><strong>Step 5:</strong> Run command <em>Invoke-PS2EXE -inputFile "C:\Path\To\FC4Launcher_03_high.ps1" -outputFile "C:\Path\To\FarCry4_Launcher.exe" -noConsole -requireAdmin -title "FC4Launcher"</em>.</p><br>
-<p style="text-align:justify;"><strong>Step 6:</strong> Run <em>FC4Launcher.exe</em> and test for stability.</p><br>
+<p style="text-align:justify;"><strong>Step 6:</strong> Run <em>FarCry4_Launcher.exe</em> and test for stability.</p><br>
 <p style="text-align:justify;"><strong>Step 7 (OPTIONAL):</strong> Adjust code to your liking so it suits your requirements.</p>
 
 ## Conclusion
