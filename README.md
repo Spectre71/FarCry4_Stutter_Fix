@@ -21,6 +21,8 @@
 <p style="text-align:justify;">Hopefully this helps and serves someone out there, who was/is unable to play this game as I was for some dumb-ass reason, as it did me. The code is also written in a way to only affect the FC4.exe, so no other tasks are affected, and the system returns back to it's original state after the game closes.</p>
 
 ## Notes
+### General:
 <p style="text-align:justify;"> <strong>1.</strong> In the code, there are place-holders such as <em>C:\Path\To</em>, which are meant to be replaced by your actual paths to executable files, so don't forget about that.</p><br>
-<p style="text-align:justify;"> <strong>2.</strong> Another placeholder is <em>Q:\STEAM\steamapps\common\Far Cry 4\bin\FarCry4.exe</em>. Make sure to adjust to your path.</p><br>
+<p style="text-align:justify;"> <strong>2.</strong> Another placeholder is <em>Q:\STEAM\steamapps\common\Far Cry 4\bin\FarCry4.exe</em>. Make sure to adjust to your path.</p>
+### Known Issues:
 <p style="text-align:justify;"> <strong>3.</strong> As of the latest testing (27. 2. 2025 - credit goes to <em>AlexLyaver</em>), this launcher does NOT prevent the game from crashing while trying to join a CO-OP session (as Hurk).</p>
